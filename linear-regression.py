@@ -29,7 +29,7 @@ with open('data.txt', 'r') as f:
 
 # Initialize variables
 num_of_iterations = 10000
-w_init, b_init = 1000, 100
+w_init, b_init = 0, 0
 alpha = 0.01
 
 
